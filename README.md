@@ -1,3 +1,3 @@
-# Football freestyle tricks
+# Football freestyle combos
 
-My generator of football freestyle tricks written in Rust.
+My generator of football freestyle combos written in Rust.
